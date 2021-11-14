@@ -85,8 +85,8 @@ async def start(bot, message):
               InlineKeyboardButton('🔊channel🔊', url="https://t.me/Filmspoterchannel"),
               InlineKeyboardButton('💬group💬', url="https://t.me/Filmspoters")
               ],[
-              InlineKeyboardButton('ℹ️ Help', callback_data='help'),
-              InlineKeyboardButton('😊 About', callback_data='about')
+              InlineKeyboardButton('⚒Help⚒', callback_data='help'),
+              InlineKeyboardButton('😎About😎', callback_data='about')
               ]]
         ),
         parse_mode="html",
